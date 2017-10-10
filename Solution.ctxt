@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Solution()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Solution\r\n
+comment1.params=
+comment1.target=boolean\ isGood()
+comment2.params=
+comment2.target=void\ resetSolution()
+numComments=3

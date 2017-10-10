@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=location
+comment0.target=Player(Room)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment1.params=
+comment1.target=Room\ getLocation()
+comment10.params=
+comment10.target=void\ incrementScore()
+comment2.params=
+comment2.target=void\ leave()
+comment3.params=newLocation
+comment3.target=void\ setLocation(Room)
+comment4.params=
+comment4.target=void\ decreaseEnergy()
+comment5.params=
+comment5.target=void\ incrementEnergy()
+comment6.params=
+comment6.target=int\ getEnergyLevel()
+comment7.params=
+comment7.target=boolean\ isAlive()
+comment8.params=
+comment8.target=void\ resetEnergy()
+comment9.params=
+comment9.target=int\ getScore()
+numComments=11
